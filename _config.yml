@@ -22,7 +22,7 @@ title: Badly Written Write-ups
 email: afrasinei.serban@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a where I'll post my own write-ups on different security CTFs and such
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "write-ups" # the subpath of your site, e.g. /blog
 url: "https://afraisnotavailable.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: afranzela
 github_username:  AfraIsNotAvailable
